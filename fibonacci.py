@@ -1,7 +1,5 @@
 #fibonacci.py
 # 
-# Jessica Beckenbach
-# September 13, 2018
 #
 # This script prints out values of the fibonacci sequence
 #######################
